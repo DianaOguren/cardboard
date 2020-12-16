@@ -44,9 +44,6 @@
     height: 132px;
     margin-right: 30px;
 }
-.container {
-    width: 310px;
-}
 
 
 /* Начало контейнера со значимыми цифрыми организации */
@@ -56,13 +53,13 @@
 }
 .numbers {
     color: #f39003;
-    font-family: 'Roboto-Black', sans-serif;
+    font-family: "Roboto-Black", sans-serif;
     font-size: 36px;
     font-weight: 900;
     margin-bottom: -10px;
 }
 .text {
-    font-family: 'Roboto-Regular', sans-serif;
+    font-family: "Roboto-Regular", sans-serif;
     font-weight: 400;
 }
 /* Конец контейнера со значимыми цифрыми организации */
@@ -72,14 +69,14 @@
     margin-top: 28px;
 }
 .title {
-    font-family: 'Roboto-Bold', sans-serif;
+    font-family: "Roboto-Bold", sans-serif;
     font-size: 15px;
     font-weight: 700;
     margin-bottom: -6px;
     margin-top: -18px;
 }
 .description-text {
-    font-family: 'Roboto Light', sans-serif;
+    font-family: "Roboto Light", sans-serif;
     font-weight: 300;   
     color: #373737;
     font-size: 14px;
