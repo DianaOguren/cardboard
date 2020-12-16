@@ -1,21 +1,21 @@
 @font-face {
-    font-family: 'Roboto-Black';
-    src: url('../fonts/Roboto-Black.ttf') format('ttf');
+    font-family: "Roboto-Black";
+    src: url("../fonts/Roboto-Black.ttf") format('ttf');
    }
 
 @font-face {
-    font-family: 'Roboto-Regular';
-    src: url('../fonts/Roboto-Regular.ttf') format('ttf');
+    font-family: "Roboto-Regular";
+    src: url("../fonts/Roboto-Regular.ttf") format("ttf");
    }
 
 @font-face {
-    font-family: 'Roboto-Bold';
-    src: url('../fonts/Roboto-Bold.ttf') format('ttf');
+    font-family: "Roboto-Bold";
+    src: url("../fonts/Roboto-Bold.ttf") format("ttf");
    }
 
 @font-face {
-    font-family: 'Roboto Light';
-    src: url('../fonts/Roboto-Light.ttf') format('ttf');
+    font-family: "Roboto Light";
+    src: url("../fonts/Roboto-Light.ttf") format("ttf");
    }
    
 .wrapper {
@@ -53,7 +53,7 @@
 }
 .numbers {
     color: #f39003;
-    font-family: "Roboto-Black";
+    font-family: "Roboto-Black", sans-serif;
     font-size: 36px;
     font-weight: 900;
     margin-bottom: -10px;
