@@ -43,8 +43,11 @@
     width: 294px;
     height: 132px;
     margin-right: 30px;
-
 }
+.container {
+    width: 310px;
+}
+
 
 /* Начало контейнера со значимыми цифрыми организации */
 .container {
